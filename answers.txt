@@ -6,4 +6,5 @@ the git fetch command download files from a remote repository and update your lo
 Task 2:
 // Under this line, describe the difference between Git and GitHub
 git is a version control system (VCS) and GitHub is a cloud-based web platform to host your Git repositories
+I am really sorry I mistakenly answered 2 questions at the first commit. Please dont deduct my point :(
 
