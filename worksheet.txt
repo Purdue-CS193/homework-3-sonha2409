@@ -1,5 +1,7 @@
 Q1: What are the 3 commands to transfer something from your local codebase to GitHub?
-
+git add .
+git commit
+git push
 
 Q2: What does 'git clone' do? 
 
