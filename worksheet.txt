@@ -4,7 +4,7 @@ git commit
 git push
 
 Q2: What does 'git clone' do? 
-
+make a clone of an existing repo to another location
 
 Q3: What does 'git status' do?
 
