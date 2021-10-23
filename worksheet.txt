@@ -7,7 +7,7 @@ Q2: What does 'git clone' do?
 make a clone of an existing repo to another location
 
 Q3: What does 'git status' do?
-
+to see what state your repository is in
 
 Q4: What does "Your branch is up to date with 'origin/master'" tell you?
 
