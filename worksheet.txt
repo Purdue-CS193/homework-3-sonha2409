@@ -1,5 +1,5 @@
 Q1: What are the 3 commands to transfer something from your local codebase to GitHub?
-git add .
+git add 
 git commit
 git push
 
@@ -14,10 +14,10 @@ tell that your local repo are in the same state as the files stored remotely on 
 
 
 Q5: You’ve made a change to a file in GitHub, the one on the browser, and now you run 'git status' on the terminal. It still says "Up to Date" despite the change. What command do you need to enter first?
-git pull
+git fetch
 
 Q6: You’ve just ran the 'rm' command and deleted an important file. All your code is deleted, not including the local repository. You only ran 'git add' and 'git commit' before the rogue command. Is your code saved?
-yes because you did not git push
+it is not deleted in the central repo because you did not push
 
 Q7: Your computer crashes and all your code is deleted, including the local repository. You only ran 'git add' and 'git commit'. Is your code saved?
 no because you did not git push
