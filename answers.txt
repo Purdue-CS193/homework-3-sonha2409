@@ -2,7 +2,8 @@ Part 1: Write your message here from GitHub
 Roger Federer is the best
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
-
+the git fetch command download files from a remote repository and update your local repo to the latest commit.
 Task 2:
 // Under this line, describe the difference between Git and GitHub
+git is a version control system (VCS) and GitHub is a cloud-based web platform to host your Git repositories
 
